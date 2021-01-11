@@ -1,0 +1,40 @@
+body{
+	color: white;
+	background: red;
+	text-transform: "Arail", sans-serif;
+
+}
+
+h1{
+
+	text-align: center;
+	border-style: dashed;
+	padding: 100px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+p{
+	text-align: center;
+	margin-left:auto;
+	margin-right: auto; 
+}
+
+.gif{
+	margin-left: 28%;
+	margin-right: 28%;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+
+}
+
+a:hover{
+	color: green;
+}
+
+a:visited{
+	color:orange;
+}
