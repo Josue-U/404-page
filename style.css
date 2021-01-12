@@ -12,6 +12,7 @@ h1{
 	padding: 100px;
 	margin-left:auto;
 	margin-right: auto;
+	animation: colorblink 1s infinite;
 }
 
 p{
@@ -24,6 +25,20 @@ p{
 	margin-left: 28%;
 	margin-right: 28%;
 }
+
+.message{
+	font-size: 28px;
+	text-transform: uppercase;
+	
+}
+
+@keyframes colorblink {
+	0% {}
+	50% { color:yellow; }
+}
+
+
+
 
 a:link{
 	color: white;
