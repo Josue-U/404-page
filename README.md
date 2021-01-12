@@ -1,2 +1,2 @@
-# 404-page
-[Voici ma page 404](https://josue-u.github.io/404-page/)
+# Page 
+[Voici ma page 404]( https://josue-u.github.io/ma-page-error/)
